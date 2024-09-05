@@ -1,4 +1,5 @@
 Blog Server Application
+
 This is a Spring Boot-based blog server that allows users to create and manage blog posts. The server is integrated with a MySQL database for data persistence.
 
 Features
